@@ -14,7 +14,8 @@ class Solution:
         # backward pass # keep track of cumulative product of postfixes
         postfix = 1
         for i in reversed(range(len(result))):
+            # similar operations to above
             result[i] *= postfix
             postfix *= nums[i]
-            
+
         return result
