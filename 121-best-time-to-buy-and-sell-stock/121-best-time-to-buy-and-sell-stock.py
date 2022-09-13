@@ -1,6 +1,6 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        # use a two pointer (l,r) algo to solve this
+        # O(n) solution - using two pointers l,r
         l, r = 0, 1
         max_profit = 0
         # while right pointer is in bounds
