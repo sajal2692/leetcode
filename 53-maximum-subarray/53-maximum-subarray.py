@@ -4,10 +4,10 @@ class Solution:
         if len(nums) < 0:
             return 0
         
-        current_sum = nums[0]
+        current_sum = 0
         max_sum = nums[0]
         
-        for num in nums[1:]:
+        for num in nums:
             if current_sum < 0:
                 current_sum = 0
             current_sum += num
