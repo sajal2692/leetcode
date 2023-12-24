@@ -7,25 +7,8 @@ class Solution:
         
         for m in range(len_board):
             for n in range(len_board):
-                if m < 3 and n < 3:
-                    sub_box = 1
-                elif m < 3 and n >= 3 and n < 6:
-                    sub_box = 2
-                elif m < 3 and n >= 6 and n < 9:
-                    sub_box = 3
-                elif m >=3 and m < 6 and n < 3:
-                    sub_box = 4
-                elif m >=3 and m < 6 and n >= 3 and n < 6:
-                    sub_box = 5
-                elif m >=3 and m < 6 and n >= 6 and n < 9:
-                    sub_box = 6
-                elif m >=6 and m < 9 and n < 3:
-                    sub_box = 7 
-                elif m >=6 and m < 9 and n >= 3 and n < 6:
-                    sub_box = 8  
-                elif m >=6 and m < 9 and n >= 6 and n < 9:
-                    sub_box = 9 
                 item = board[m][n]
+                sub_box = (m // 3, n // 3)
                 if item == ".":
                     continue
                 if item in seen_rows[m]:
