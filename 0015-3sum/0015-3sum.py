@@ -27,8 +27,8 @@ class Solution:
 
         for i, a in enumerate(nums):
             # Skip positive integers
-            if a > 0:
-                break
+            # if a > 0:
+            #     break
 
             if i > 0 and a == nums[i - 1]:
                 continue
