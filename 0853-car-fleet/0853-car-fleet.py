@@ -8,6 +8,7 @@ class Solution:
             position, speed = pair
             time = (target - position) / speed
             stack.append(time)
+            # this condition is tricky to get right
             if len(stack) >= 2 and stack[-1] <= stack[-2]:
                 stack.pop()
         return len(stack)
