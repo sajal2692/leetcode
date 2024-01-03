@@ -7,14 +7,15 @@ class Solution:
             start = current_index
             while stack and stack[-1][1] > current_height:
                 prev_index, prev_height = stack.pop()
-                current_rectangle_area = prev_height * (current_index - prev_index)
-                max_area = max(max_area, current_rectangle_area)
+                # current rectangle area is calculated for the popped rectangle
+                rectangle_area = prev_height * (current_index - prev_index)
+                max_area = max(max_area, rectangle_area)
                 start = prev_index
             stack.append((start, current_height))
             
         for index, height in stack:
-            current_rectangle_area = height * (len(heights) - index)
-            max_area = max(max_area, current_rectangle_area)
+            rectangle_area = height * (len(heights) - index)
+            max_area = max(max_area, rectangle_area)
         
         return max_area
             
