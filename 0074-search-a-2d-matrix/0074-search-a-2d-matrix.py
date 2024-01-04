@@ -22,8 +22,6 @@ class Solution:
                 bottom = m - 1
             else:
                 break
-        # print(top,bottom)
-        # row = (top + bottom) // 2
-        # print("running binary search on row", row)
+        # run binary search on the middle row (the one that was found)
         return binarySearch(matrix[m])
                     
