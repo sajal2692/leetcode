@@ -1,27 +1,32 @@
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         
-        def binarySearch(array: List[int]) -> bool:            
-            l, r = 0, len(array) - 1
-            while l <= r:
-                m = (l + r) // 2
-                if array[m] == target:
-                    return True
-                elif array[m] < target:
-                    l = m + 1
-                else:
-                    r = m - 1
-            return False
-        
         top, bottom = 0, len(matrix) - 1
+        
+        # find the right row using binary search
         while top <= bottom:
-            m = (top + bottom) // 2
-            if matrix[m][-1] < target:
-                top = m + 1
-            elif matrix[m][0] > target:
-                bottom = m - 1
+            mid = (top + bottom) // 2
+            if target > matrix[mid][-1]:
+                top = mid + 1
+            elif target < matrix[mid][0]:
+                bottom = mid - 1
             else:
                 break
-        # run binary search on the middle row (the one that was found)
-        return binarySearch(matrix[m])
-                    
+        
+        # pointers crossed, no element found
+        if not top <= bottom:
+            return False
+        
+        row = matrix[mid]
+        l, r = 0, len(row) - 1
+        while l <= r:
+            mid = (l + r) // 2
+            if target > row[mid]:
+                l = mid + 1
+            elif target < row[mid]:
+                r = mid - 1
+            else:
+                return True
+        return False
+            
+            
