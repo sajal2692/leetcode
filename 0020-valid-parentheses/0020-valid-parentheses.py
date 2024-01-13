@@ -1,19 +1,25 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        paren = {
+        close_2_open = {
             ")": "(",
             "}": "{",
             "]": "["
         }
+        
         stack = []
+        
         for c in s:
-            if c not in paren:
-                stack.append(c)
-            else:
-                if not stack or stack.pop() != paren[c]:
+            if c in close_2_open:
+                if stack and stack[-1] == close_2_open[c]:
+                    stack.pop()
+                else:
                     return False
-        if stack:
-            return False
-        return True
+            else:
+                stack.append(c)
+        if len(stack) == 0:
+            return True
+        return False
+                
+                
                 
             
