@@ -2,8 +2,8 @@ class BrowserNode:
     
     def __init__(self, page: str, next=None, prev=None):
         self.page = page
-        self.next = None
-        self.prev = None
+        self.next = next
+        self.prev = prev
         
         
 
@@ -14,8 +14,7 @@ class BrowserHistory:
         self.curr = self.home
 
     def visit(self, url: str) -> None:
-        new = BrowserNode(page=url)
-        new.prev = self.curr
+        new = BrowserNode(page=url, prev=self.curr)
         self.curr.next = new
         self.curr = new
 
