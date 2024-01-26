@@ -31,7 +31,7 @@ class Solution:
         if head.next:
             # whatever is the next node in the list is the new head
             newHead = self.reverseList(head.next)
-            # within each recursive call
+            # moving back up the stack
             # reverse the pointers
             head.next.next = head
             # remove the original next pointer for the current head
