@@ -58,8 +58,35 @@ class Solution:
                 k += 1
         
         return mergeSort(nums, 0, len(nums) - 1)
-            
+    
+    
+#     def sortArray(self, nums: List[int]) -> List[int]:
         
+#         def quickSort(arr, s, e):
+            
+#             # base case
+#             if s >= e:
+#                 return arr
+            
+#             pivot = arr[e]
+#             left = s
+#             for i in range(s, e):
+#                 if arr[i] <= pivot:
+#                     arr[left], arr[i] = arr[i], arr[left]
+#                     left += 1
+            
+#             # swap pivot element with the element at left pointer
+#             arr[e] = arr[left]
+#             arr[left] = pivot
+            
+#             quickSort(arr, s, left-1)
+#             quickSort(arr, left + 1, e)
+            
+#             return arr
+        
+#         return quickSort(nums, 0, len(nums) - 1)
+            
+            
         
         
         
