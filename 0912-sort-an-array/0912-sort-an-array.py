@@ -15,8 +15,8 @@ class Solution:
         
         def mergeSort(arr, s, e):
             
-            if e - s + 1 <= 1:
-                return nums
+            if s >= e:
+                return arr
             
             m = (s + e) // 2
             
@@ -58,5 +58,28 @@ class Solution:
                 k += 1
         
         return mergeSort(nums, 0, len(nums) - 1)
-                
-                    
+            
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
