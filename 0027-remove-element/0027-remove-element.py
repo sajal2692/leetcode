@@ -1,8 +1,14 @@
-class Solution:
-    def removeElement(self, nums: List[int], val: int) -> int:
-        k = 0 # pointer to the num val values
-        for i in range(len(nums)):
-            if nums[i] != val:
-                nums[k] = nums[i]
-                k += 1
-        return k
+class Solution(object):
+    def removeElement(self, nums, val):
+        """
+        :type nums: List[int]
+        :type val: int
+        :rtype: int
+        """
+        l, r = 0,0
+        while r < len(nums):
+            if nums[r] != val:
+                nums[l] = nums[r]
+                l += 1
+            r += 1
+        return l
