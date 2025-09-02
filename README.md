@@ -18,4 +18,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/sajal2692/leetcode/tree/master/2058-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sajal2692/leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sajal2692/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
