@@ -53,18 +53,17 @@ class MyLinkedList(object):
         :type val: int
         :rtype: None
         """
-        new_node = Node(val)
         i = 0
         curr = self.head
-        while curr and i < index:
-            curr = curr.next
+        while curr and i < index: 
             i += 1
+            curr = curr.next
         if curr:
+            new_node = Node(val)
             new_node.next = curr.next
-            curr.next = new_node
-            # check if at tail
-            if not new_node.next:
+            if self.tail == curr:
                 self.tail = new_node
+            curr.next = new_node
 
 
     def deleteAtIndex(self, index):
@@ -75,13 +74,13 @@ class MyLinkedList(object):
         i = 0
         curr = self.head
         while curr and i < index:
-            curr = curr.next
             i += 1
+            curr = curr.next
         if curr and curr.next:
             if self.tail == curr.next:
                 self.tail = curr
             curr.next = curr.next.next
-             
+
 
 
 
