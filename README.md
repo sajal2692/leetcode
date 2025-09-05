@@ -26,4 +26,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sajal2692/leetcode/tree/master/0155-min-stack) |
+| [0838-design-linked-list](https://github.com/sajal2692/leetcode/tree/master/0838-design-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/sajal2692/leetcode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
