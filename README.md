@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sajal2692/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sajal2692/leetcode/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/sajal2692/leetcode/tree/master/0141-linked-list-cycle) |
 ## Simulation
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sajal2692/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/sajal2692/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sajal2692/leetcode/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/sajal2692/leetcode/tree/master/0838-design-linked-list) |
 ## Recursion
@@ -38,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sajal2692/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sajal2692/leetcode/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sajal2692/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
