@@ -26,12 +26,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sajal2692/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/sajal2692/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1582-design-browser-history](https://github.com/sajal2692/leetcode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sajal2692/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sajal2692/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/sajal2692/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/sajal2692/leetcode/tree/master/0838-design-linked-list) |
 | [1582-design-browser-history](https://github.com/sajal2692/leetcode/tree/master/1582-design-browser-history) |
 ## Linked List
@@ -62,5 +64,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sajal2692/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sajal2692/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
