@@ -1,20 +1,31 @@
-class Solution:
-    def climbStairs(self, n: int) -> int:
-        
-        n_2_res = {}
-        
-        def climb(n):
-            # base case
-            if n <= 1:
-                return 1
+class Solution(object):
 
-            if n in n_2_res:
-                return n_2_res[n]
+    memo = {}
 
-            # recursive case with memoization
-            n_2_res[n] = climb(n-1) + climb(n-2)
-            
-            return n_2_res[n]
+    def climbStairs(self, n):
+        """
+        :type n: int
+        :rtype: int
+        """
+        # 1 => 1
+        # 2 => 2
+        # 3 => c(2) + c(1) => 3
+        # 4 => c(3) + c(1) is this ~ c(2) + c(2)? maybe yes?? => 
+        # 5 => c(4)
         
-        return climb(n)
+        if n <= 0:
+            return 0
+        if n == 1:
+            return 1
+        if n == 2:
+            return 2
+
+        if n in self.memo:
+            return self.memo[n]
+        
+        count = self.climbStairs(n-1) + self.climbStairs(n-2) 
+        self.memo[n] = count
+
+        return count
+        
         
