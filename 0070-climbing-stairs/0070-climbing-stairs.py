@@ -1,31 +1,17 @@
 class Solution(object):
 
-    memo = {}
-
     def climbStairs(self, n):
         """
         :type n: int
         :rtype: int
         """
-        # 1 => 1
-        # 2 => 2
-        # 3 => c(2) + c(1) => 3
-        # 4 => c(3) + c(1) is this ~ c(2) + c(2)? maybe yes?? => 
-        # 5 => c(4)
         
-        if n <= 0:
-            return 0
-        if n == 1:
-            return 1
-        if n == 2:
-            return 2
+        dp = [0] * (n+1) # count ground as a position
+        dp[0] = 1
+        dp[1] = 1
 
-        if n in self.memo:
-            return self.memo[n]
+        for i in range(2, n+1):
+            dp[i] = dp[i-1] + dp[i-2]
         
-        count = self.climbStairs(n-1) + self.climbStairs(n-2) 
-        self.memo[n] = count
-
-        return count
-        
+        return dp[n]
         
