@@ -6,12 +6,12 @@ class Solution(object):
         :rtype: int
         """
         
-        dp = [0] * (n+1) # count ground as a position
-        dp[0] = 1
-        dp[1] = 1
+        prev1, prev2 = 1,1
 
         for i in range(2, n+1):
-            dp[i] = dp[i-1] + dp[i-2]
+            current = prev1 + prev2
+            prev2 = prev1
+            prev1 = current
         
-        return dp[n]
+        return prev1
         
