@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sajal2692/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sajal2692/leetcode/tree/master/0027-remove-element) |
+| [0074-search-a-2d-matrix](https://github.com/sajal2692/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1582-design-browser-history](https://github.com/sajal2692/leetcode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sajal2692/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/sajal2692/leetcode/tree/master/2058-concatenation-of-array) |
@@ -78,4 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sajal2692/leetcode/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sajal2692/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sajal2692/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
