@@ -83,8 +83,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sajal2692/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0374-guess-number-higher-or-lower](https://github.com/sajal2692/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sajal2692/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sajal2692/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
