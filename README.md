@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sajal2692/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/sajal2692/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sajal2692/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1582-design-browser-history](https://github.com/sajal2692/leetcode/tree/master/1582-design-browser-history) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sajal2692/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/sajal2692/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sajal2692/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sajal2692/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -111,7 +113,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sajal2692/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0450-delete-node-in-a-bst](https://github.com/sajal2692/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sajal2692/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sajal2692/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sajal2692/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
