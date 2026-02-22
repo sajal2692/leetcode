@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/sajal2692/leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sajal2692/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0875-koko-eating-bananas](https://github.com/sajal2692/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1046-last-stone-weight](https://github.com/sajal2692/leetcode/tree/master/1046-last-stone-weight) |
 | [1582-design-browser-history](https://github.com/sajal2692/leetcode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sajal2692/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/sajal2692/leetcode/tree/master/2058-concatenation-of-array) |
@@ -167,4 +168,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sajal2692/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/sajal2692/leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
