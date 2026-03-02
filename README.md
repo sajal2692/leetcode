@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/sajal2692/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sajal2692/leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sajal2692/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/sajal2692/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajal2692/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0875-koko-eating-bananas](https://github.com/sajal2692/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/sajal2692/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sajal2692/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/sajal2692/leetcode/tree/master/0200-number-of-islands) |
 ## Interactive
 |  |
 | ------- |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/sajal2692/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/sajal2692/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sajal2692/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sajal2692/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sajal2692/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Divide and Conquer
 |  |
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/sajal2692/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/sajal2692/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sajal2692/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sajal2692/leetcode/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -190,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajal2692/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sajal2692/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sajal2692/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
