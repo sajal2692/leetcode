@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sajal2692/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/sajal2692/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajal2692/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
 | [0875-koko-eating-bananas](https://github.com/sajal2692/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/sajal2692/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sajal2692/leetcode/tree/master/1046-last-stone-weight) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sajal2692/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sajal2692/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
 ## Interactive
 |  |
 | ------- |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sajal2692/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sajal2692/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sajal2692/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/sajal2692/leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sajal2692/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sajal2692/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
 | ------- |
@@ -198,4 +202,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sajal2692/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
