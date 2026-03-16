@@ -1,17 +1,15 @@
-class Solution(object):
+class Solution:
+    def climbStairs(self, n: int) -> int:
 
-    def climbStairs(self, n):
-        """
-        :type n: int
-        :rtype: int
-        """
-        
-        prev1, prev2 = 1,1
-
-        for i in range(2, n+1):
-            current = prev1 + prev2
-            prev2 = prev1
-            prev1 = current
-        
-        return prev1
-        
+        def climb(n, cache):
+            if n in cache:
+                return cache[n]
+            if n == 0:
+                return 1
+            if n < 0:
+                return 0
+            
+            cache[n] = climb(n-1, cache) + climb(n-2, cache)
+            return cache[n]
+    
+        return climb(n, {})
