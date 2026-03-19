@@ -1,17 +1,10 @@
 class Solution:
     def rob(self, nums: List[int]) -> int: 
-        
-        memo = {}
+        rob1, rob2, = 0, 0
 
-        def _rob(i):
-            # base case
-            if i in memo:
-                return memo[i]
-            if i >= len(nums):
-                return 0    
-            memo[i] = max(_rob(i+1), nums[i] + _rob(i+2))
-            return memo[i]
+        for num in nums:
+            res = max(rob1 + num, rob2)
+            rob1 = rob2
+            rob2 = res
 
-        return _rob(0)
-
-        
+        return rob2
