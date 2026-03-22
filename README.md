@@ -87,11 +87,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sajal2692/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sajal2692/leetcode/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/sajal2692/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sajal2692/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sajal2692/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sajal2692/leetcode/tree/master/0198-house-robber) |
 ## Memoization
@@ -225,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sajal2692/leetcode/tree/master/0207-course-schedule) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sajal2692/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
