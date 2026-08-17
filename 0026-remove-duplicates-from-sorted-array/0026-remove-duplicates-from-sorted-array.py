@@ -1,14 +1,9 @@
-class Solution(object):
-    def removeDuplicates(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        n = len(nums)
-        l,r = 1,1
-        while r < n:
-            if nums[r] != nums[r-1]:
-                nums[l] = nums[r]
-                l = l + 1
-            r = r + 1
-        return l
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        L, R = 1, 1
+        while R < len(nums):
+            if not nums[R] == nums[R-1]:
+                nums[L] = nums[R]
+                L += 1
+            R += 1
+        return L
