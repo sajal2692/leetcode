@@ -1,14 +1,13 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        # initialize two pointers
-        l, r = 0, len(numbers) - 1
-        while l < r:
-            sum = numbers[l] + numbers[r]
+        L, R = 0, len(numbers) - 1
+        while L < R:
+            sum = numbers[L] + numbers[R]
             if sum == target:
-                return [l + 1, r + 1]
+                return [L+1, R+1]
+            if sum > target:
+                R -= 1
             if sum < target:
-                l += 1
-            else:
-                r -= 1
-        
+                L += 1
+        return []
         
