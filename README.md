@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/sajal2692/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sajal2692/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sajal2692/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0876-middle-of-the-linked-list](https://github.com/sajal2692/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/sajal2692/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sajal2692/leetcode/tree/master/0206-reverse-linked-list) |
 | [0838-design-linked-list](https://github.com/sajal2692/leetcode/tree/master/0838-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sajal2692/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/sajal2692/leetcode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
