@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/sajal2692/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sajal2692/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sajal2692/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/sajal2692/leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajal2692/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/sajal2692/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/sajal2692/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/sajal2692/leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sajal2692/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sajal2692/leetcode/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/sajal2692/leetcode/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sajal2692/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/sajal2692/leetcode/tree/master/0994-rotting-oranges) |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/sajal2692/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sajal2692/leetcode/tree/master/0078-subsets) |
+| [0212-word-search-ii](https://github.com/sajal2692/leetcode/tree/master/0212-word-search-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/sajal2692/leetcode/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/sajal2692/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sajal2692/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/sajal2692/leetcode/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sajal2692/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
@@ -317,4 +321,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/sajal2692/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/sajal2692/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/sajal2692/leetcode/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
