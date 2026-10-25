@@ -18,21 +18,23 @@ class WordDictionary:
         curr.word = True
         
     def search(self, word: str) -> bool:
-        curr = self.root
-        return self.searchHelper(curr, word)
-
-    def searchHelper(self, start: TrieNode, remaining_word: str):
-        curr = start
-        for c in remaining_word: 
-            if c == ".":
-                return any([self.searchHelper(child, remaining_word[1:]) for child in curr.children.values()])
-            elif c not in curr.children:
-                return False
-            curr = curr.children[c]
-            remaining_word = remaining_word[1:]
-        return True if curr.word else False
-            
-
+        
+        def dfs(j, node):
+            curr = node
+            for i in range(j, len(word)):
+                c = word[i]
+                if c == ".":
+                    for child in curr.children.values():
+                        if dfs(i+1, child):
+                            return True
+                    return False
+                else:
+                    if c not in curr.children:
+                        return False
+                    curr = curr.children[c]
+            return curr.word
+        
+        return dfs(0, self.root)
 
 
 
