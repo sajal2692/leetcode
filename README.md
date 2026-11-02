@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/sajal2692/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sajal2692/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/sajal2692/leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/sajal2692/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/sajal2692/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/sajal2692/leetcode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/sajal2692/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/sajal2692/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sajal2692/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0684-redundant-connection](https://github.com/sajal2692/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/sajal2692/leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/sajal2692/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/sajal2692/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sajal2692/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Backtracking
@@ -253,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajal2692/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/sajal2692/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -265,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sajal2692/leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/sajal2692/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
 ## Graph Theory
 |  |
 | ------- |
@@ -303,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0211-design-add-and-search-words-data-structure](https://github.com/sajal2692/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/sajal2692/leetcode/tree/master/0212-word-search-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sajal2692/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
 ## Greedy
 |  |
 | ------- |
