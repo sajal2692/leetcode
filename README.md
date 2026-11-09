@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/sajal2692/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sajal2692/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sajal2692/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0502-ipo](https://github.com/sajal2692/leetcode/tree/master/0502-ipo) |
 | [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/sajal2692/leetcode/tree/master/0724-find-pivot-index) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajal2692/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/sajal2692/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0502-ipo](https://github.com/sajal2692/leetcode/tree/master/0502-ipo) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sajal2692/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/sajal2692/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sajal2692/leetcode/tree/master/1046-last-stone-weight) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajal2692/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/sajal2692/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0502-ipo](https://github.com/sajal2692/leetcode/tree/master/0502-ipo) |
 | [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/sajal2692/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
@@ -327,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sajal2692/leetcode/tree/master/0011-container-with-most-water) |
+| [0502-ipo](https://github.com/sajal2692/leetcode/tree/master/0502-ipo) |
 ## Monotonic Stack
 |  |
 | ------- |
