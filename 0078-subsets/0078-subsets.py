@@ -1,16 +1,18 @@
 class Solution:
-    def subsets(self, nums: List[int]) -> List[List[int]]:
-        res = [] 
-        subset = []
+    def subsets(self, nums: list[int]) -> list[list[int]]:
+        result, curset = [], []
 
-        def dfs(i):
-            # base case
-            if i >= len(nums): # index overflow
-                res.append(subset.copy())
+        def helper(i):
+
+            if i >= len(nums):
+                result.append(curset.copy())
                 return
-            subset.append(nums[i])
-            dfs(i+1)
-            subset.pop()
-            dfs(i+1)
-        dfs(0)
-        return res    
+            
+            curset.append(nums[i])
+            helper(i+1)
+            curset.pop()
+            helper(i+1)
+        
+        helper(0)
+        return result
+            
