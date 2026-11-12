@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/sajal2692/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/sajal2692/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sajal2692/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sajal2692/leetcode/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/sajal2692/leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sajal2692/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sajal2692/leetcode/tree/master/0078-subsets) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sajal2692/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/sajal2692/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sajal2692/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sajal2692/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/sajal2692/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sajal2692/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sajal2692/leetcode/tree/master/0090-subsets-ii) |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/sajal2692/leetcode/tree/master/0047-permutations-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sajal2692/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/sajal2692/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/sajal2692/leetcode/tree/master/0502-ipo) |
