@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/sajal2692/leetcode/tree/master/0724-find-pivot-index) |
+| [0778-swim-in-rising-water](https://github.com/sajal2692/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/sajal2692/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/sajal2692/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0978-longest-turbulent-subarray](https://github.com/sajal2692/leetcode/tree/master/0978-longest-turbulent-subarray) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/sajal2692/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sajal2692/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/sajal2692/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0778-swim-in-rising-water](https://github.com/sajal2692/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/sajal2692/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Matrix
 |  |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0212-word-search-ii](https://github.com/sajal2692/leetcode/tree/master/0212-word-search-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/sajal2692/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/sajal2692/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/sajal2692/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sajal2692/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Interactive
@@ -227,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/sajal2692/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/sajal2692/leetcode/tree/master/0778-swim-in-rising-water) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -246,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/sajal2692/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/sajal2692/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/sajal2692/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sajal2692/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Backtracking
@@ -273,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/sajal2692/leetcode/tree/master/0502-ipo) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sajal2692/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/sajal2692/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/sajal2692/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/sajal2692/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sajal2692/leetcode/tree/master/1046-last-stone-weight) |
 ## Geometry
@@ -301,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/sajal2692/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/sajal2692/leetcode/tree/master/0778-swim-in-rising-water) |
 ## Graph Theory
 |  |
 | ------- |
@@ -378,4 +385,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sajal2692/leetcode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/sajal2692/leetcode/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/sajal2692/leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
