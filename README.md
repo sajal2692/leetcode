@@ -226,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/sajal2692/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/sajal2692/leetcode/tree/master/0743-network-delay-time) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/sajal2692/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/sajal2692/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/sajal2692/leetcode/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/sajal2692/leetcode/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/sajal2692/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sajal2692/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Backtracking
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/sajal2692/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/sajal2692/leetcode/tree/master/0502-ipo) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sajal2692/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/sajal2692/leetcode/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/sajal2692/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sajal2692/leetcode/tree/master/1046-last-stone-weight) |
 ## Geometry
@@ -304,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/sajal2692/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/sajal2692/leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/sajal2692/leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/sajal2692/leetcode/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -366,4 +370,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sajal2692/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sajal2692/leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sajal2692/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
