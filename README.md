@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/sajal2692/leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/sajal2692/leetcode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sajal2692/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1514-path-with-maximum-probability](https://github.com/sajal2692/leetcode/tree/master/1514-path-with-maximum-probability) |
 | [1582-design-browser-history](https://github.com/sajal2692/leetcode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sajal2692/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/sajal2692/leetcode/tree/master/2058-concatenation-of-array) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-swim-in-rising-water](https://github.com/sajal2692/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/sajal2692/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sajal2692/leetcode/tree/master/1046-last-stone-weight) |
+| [1514-path-with-maximum-probability](https://github.com/sajal2692/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Geometry
 |  |
 | ------- |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/sajal2692/leetcode/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/sajal2692/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/sajal2692/leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/sajal2692/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
@@ -381,11 +384,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sajal2692/leetcode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/sajal2692/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sajal2692/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/sajal2692/leetcode/tree/master/0778-swim-in-rising-water) |
+| [1514-path-with-maximum-probability](https://github.com/sajal2692/leetcode/tree/master/1514-path-with-maximum-probability) |
 ## Minimax
 |  |
 | ------- |
